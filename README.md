@@ -43,3 +43,17 @@ The project follows a structured data science workflow:
     3. Model evaluation visuals
     4. Presentation-ready graphics
 - [**notebooks**](notebooks/): Contains modular notebooks, each dedicated to a specific section of the main workflow i.e. EDA, feature engineering, model training, etc. This is for easier navigation and experimentation.
+- [**results**](results/): A storage folder for model perfomance and other table-like outputs.
+
+## Data Explanation
+The dataset contains 7403 rows (customers) and 21 features (20 features + 1 target). It is in tabular format, with each row representing a customer and column representing a demographic, service-related or account-related variable.
+
+Among the features:
+- 3 are numerical i.e. `tenure`, `MonthlyCharges` `TotalCharges`
+- 5 are binary i.e. `Dependents`, `SeniorCitizen`
+- 13 are categorical i.e. `gender`, `InternetService`, etc.
+
+The dataset is self-contained and thus does not require any merging of external data. This, coupled with the data being small in size (less than 1MB), making it manageable for EDA and model experimentation.
+
+## License
+This project is for environmental purposes.
