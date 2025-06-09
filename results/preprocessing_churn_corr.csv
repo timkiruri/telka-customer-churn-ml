@@ -1,0 +1,41 @@
+,Churn
+Contract_Month-to-month,0.4046
+OnlineSecurity_No,0.3422
+TechSupport_No,0.3369
+InternetService_Fiber optic,0.3075
+PaymentMethod_Electronic check,0.3015
+OnlineBackup_No,0.2676
+DeviceProtection_No,0.2521
+MonthlyCharges,0.1929
+PaperlessBilling,0.1915
+SeniorCitizen,0.1505
+StreamingMovies_No,0.1309
+StreamingTV_No,0.1284
+StreamingTV_Yes,0.0633
+StreamingMovies_Yes,0.0609
+MultipleLines_Yes,0.0400
+PhoneService,0.0117
+gender,-0.0085
+MultipleLines_No phone service,-0.0117
+MultipleLines_No,-0.0327
+DeviceProtection_Yes,-0.0662
+OnlineBackup_Yes,-0.0823
+PaymentMethod_Mailed check,-0.0908
+PaymentMethod_Bank transfer (automatic),-0.1181
+InternetService_DSL,-0.1241
+PaymentMethod_Credit card (automatic),-0.1347
+Partner,-0.1500
+Dependents,-0.1631
+TechSupport_Yes,-0.1647
+OnlineSecurity_Yes,-0.1713
+Contract_One year,-0.1782
+TotalCharges,-0.1995
+StreamingTV_No internet service,-0.2276
+TechSupport_No internet service,-0.2276
+DeviceProtection_No internet service,-0.2276
+StreamingMovies_No internet service,-0.2276
+OnlineBackup_No internet service,-0.2276
+InternetService_No,-0.2276
+OnlineSecurity_No internet service,-0.2276
+Contract_Two year,-0.3016
+tenure,-0.3540
